@@ -1,4 +1,4 @@
 # hardiks-repository
 This is my fisrt repository.
 <br>
-Autor:hardik soni
+Author:Hardik soni
