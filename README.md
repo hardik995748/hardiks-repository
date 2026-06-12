@@ -1,2 +1,4 @@
 # hardiks-repository
-this is my fisrt repository
+This is my fisrt repository.
+<br>
+Autor:hardik soni
